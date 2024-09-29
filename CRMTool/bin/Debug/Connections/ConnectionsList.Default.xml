@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CrmConnections xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ByPassProxyOnLocal>false</ByPassProxyOnLocal>
+  <Connections>
+    <ConnectionDetail>
+      <AuthType>OnlineFederation</AuthType>
+      <AzureAdAppId>51f81489-12ee-4a9e-aaae-a2591f45987d</AzureAdAppId>
+      <BrowserName>None</BrowserName>
+      <ConnectionId>18933509-5adb-4c21-9066-1e05e43cb59a</ConnectionId>
+      <ConnectionName>CRM connection</ConnectionName>
+      <IsCustomAuth>false</IsCustomAuth>
+      <IsFromSdkLoginCtrl>true</IsFromSdkLoginCtrl>
+      <LastUsedOn>0001-01-01 00:00:00</LastUsedOn>
+      <NewAuthType>AD</NewAuthType>
+      <Organization>unq104a2c5cb530ef118e4c002248d5c</Organization>
+      <OrganizationDataServiceUrl>https://orgf1323e5a.api.crm8.dynamics.com/api/data/v9.2/</OrganizationDataServiceUrl>
+      <OrganizationFriendlyName>Sourabh Singh</OrganizationFriendlyName>
+      <OrganizationServiceUrl>https://orgf1323e5a.api.crm8.dynamics.com/XRMServices/2011/Organization.svc</OrganizationServiceUrl>
+      <OrganizationUrlName>orgf1323e5a</OrganizationUrlName>
+      <OrganizationVersion>9.2.24091.166</OrganizationVersion>
+      <OriginalUrl>https://orgf1323e5a.crm8.dynamics.com</OriginalUrl>
+      <ReplyUrl>app://58145b91-0c36-4500-8554-080854f2ac97/</ReplyUrl>
+      <SavePassword>false</SavePassword>
+      <ServerName>orgf1323e5a.crm8.dynamics.com</ServerName>
+      <ServerPort>80</ServerPort>
+      <TenantId>00000000-0000-0000-0000-000000000000</TenantId>
+      <Timeout />
+      <TimeoutTicks>1200000000</TimeoutTicks>
+      <UseIfd>false</UseIfd>
+      <UseMfa>false</UseMfa>
+      <UserName>22MCC20158@cuchd.in</UserName>
+      <WebApplicationUrl>https://orgf1323e5a.crm8.dynamics.com</WebApplicationUrl>
+    </ConnectionDetail>
+  </Connections>
+  <IsReadOnly>false</IsReadOnly>
+  <Name>Default</Name>
+  <UseCustomProxy>false</UseCustomProxy>
+  <UseDefaultCredentials>false</UseDefaultCredentials>
+  <UseDetailsView>false</UseDetailsView>
+  <UseInternetExplorerProxy>true</UseInternetExplorerProxy>
+  <UseMruDisplay>false</UseMruDisplay>
+</CrmConnections>

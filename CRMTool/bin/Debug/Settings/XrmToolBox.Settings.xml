@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Options xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <LibraryFilterMvp>false</LibraryFilterMvp>
+  <LibraryFilterNew>false</LibraryFilterNew>
+  <LibraryFilterOpenSource>false</LibraryFilterOpenSource>
+  <LibraryFilterRating>false</LibraryFilterRating>
+  <LibraryShowIncompatible>false</LibraryShowIncompatible>
+  <LibraryShowInstalled>true</LibraryShowInstalled>
+  <LibraryShowNotInstalled>true</LibraryShowNotInstalled>
+  <LibraryShowUpdates>true</LibraryShowUpdates>
+  <MostRatedMinNumberOfVotes>10</MostRatedMinNumberOfVotes>
+  <MostRatedMinRatingAverage>4.5</MostRatedMinRatingAverage>
+  <RepositoryUrl>https://www.xrmtoolbox.com/_odata/plugins</RepositoryUrl>
+  <UseLegacyToolLibrary>false</UseLegacyToolLibrary>
+  <BringToTop>true</BringToTop>
+  <CheckUpdateOnStartup>true</CheckUpdateOnStartup>
+  <DisplayPluginsStoreOnlyIfUpdates>false</DisplayPluginsStoreOnlyIfUpdates>
+  <DisplayPluginsStoreOnStartup>false</DisplayPluginsStoreOnStartup>
+  <DisplayToolsListFirst>false</DisplayToolsListFirst>
+  <DoNotCheckForUpdates>false</DoNotCheckForUpdates>
+  <ShowPluginUpdatesPanelAtStartup>true</ShowPluginUpdatesPanelAtStartup>
+  <AllowLogUsage xsi:nil="true" />
+  <CloseEachPluginSilently>false</CloseEachPluginSilently>
+  <CloseOpenedPluginsSilently>false</CloseOpenedPluginsSilently>
+  <ClosePluginsSilentlyOnWindowsShutdown>true</ClosePluginsSilentlyOnWindowsShutdown>
+  <ConnectionControlsAllowPreReleaseUpdates>false</ConnectionControlsAllowPreReleaseUpdates>
+  <ConnectionControlsVersion>1.2024.9.59</ConnectionControlsVersion>
+  <DisplaySizeFactor>0</DisplaySizeFactor>
+  <MergeConnectionFiles>false</MergeConnectionFiles>
+  <NumberOfRecentConnectionsToDisplay>10</NumberOfRecentConnectionsToDisplay>
+  <ReuseConnections>false</ReuseConnections>
+  <ShowMostRecentConnections>false</ShowMostRecentConnections>
+  <ShowSearchBarInCompactSelector>false</ShowSearchBarInCompactSelector>
+  <UseDetailsViewForConnectionManager>false</UseDetailsViewForConnectionManager>
+  <UseDetailsViewForConnectionSelector>false</UseDetailsViewForConnectionSelector>
+  <DisplayOrder>Alphabetically</DisplayOrder>
+  <DisplayRecentlyUpdatedFirst>false</DisplayRecentlyUpdatedFirst>
+  <Theme>Light theme</Theme>
+  <DoNotRememberPluginsWithoutConnection>false</DoNotRememberPluginsWithoutConnection>
+  <DoNotShowStartPage>false</DoNotShowStartPage>
+  <MruItemsToDisplay>10</MruItemsToDisplay>
+  <DisplayLargeIcons>true</DisplayLargeIcons>
+  <DoNotUseToolColors>false</DoNotUseToolColors>
+  <HiddenPlugins />
+  <NumberOfDaysToShowNewRibbon>7</NumberOfDaysToShowNewRibbon>
+  <ShowCategoriesExpanded>false</ShowCategoriesExpanded>
+  <UseLegacyToolsList>false</UseLegacyToolsList>
+  <LastAdvertisementDisplay>2024-09-28T10:05:08.5965029+05:30</LastAdvertisementDisplay>
+  <LastConnection>CRM connection</LastConnection>
+  <LastPlugin />
+  <LastUpdateCheck>2024-09-29T23:52:32.9714628+05:30</LastUpdateCheck>
+  <MostUsedList>
+    <PluginUseCount>
+      <Count>139</Count>
+      <Name>CRMTool.MyPlugin</Name>
+    </PluginUseCount>
+  </MostUsedList>
+  <OptinForApplicationInsights>true</OptinForApplicationInsights>
+  <OrderForSettingsTab />
+  <PluginsListDocking>Document</PluginsListDocking>
+  <PluginsListIsHidden>false</PluginsListIsHidden>
+  <PluginsStoreShowIncompatible xsi:nil="true" />
+  <PluginsStoreShowInstalled xsi:nil="true" />
+  <PluginsStoreShowNew xsi:nil="true" />
+  <PluginsStoreShowUpdates xsi:nil="true" />
+  <PluginsUpdateSkip>
+    <PluginUpdateSkip>
+      <Date>2024-09-30T12:35:56.9232484+05:30</Date>
+      <Name>McTools.Xrm.ConnectionControls</Name>
+      <Version>1.2024.9.59</Version>
+    </PluginUpdateSkip>
+  </PluginsUpdateSkip>
+  <FormSize>
+    <Height>882</Height>
+    <IsMaximized>true</IsMaximized>
+    <Width>1479</Width>
+  </FormSize>
+  <RememberSession>false</RememberSession>
+  <ByPassProxyOnLocal>false</ByPassProxyOnLocal>
+  <UseCustomProxy>false</UseCustomProxy>
+  <UseDefaultCredentials>false</UseDefaultCredentials>
+  <UseInternetExplorerProxy>false</UseInternetExplorerProxy>
+</Options>
