@@ -46,8 +46,7 @@
               "RelativeToolTip": "CRMTool\\Services\\EntityCreationService.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAswC0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T17:53:47.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T17:53:47.296Z"
             },
             {
               "$type": "Document",
@@ -57,7 +56,7 @@
               "RelativeDocumentMoniker": "CRMTool\\Services\\EntityMetadataService.cs",
               "ToolTip": "C:\\Users\\rajpo\\source\\repos\\CRMTool\\CRMTool\\Services\\EntityMetadataService.cs",
               "RelativeToolTip": "CRMTool\\Services\\EntityMetadataService.cs",
-              "ViewState": "AgIAAEEBAAAAAAAAAAAmwEgBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADgBAAAAAAAAAAAAAG0BAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T15:39:07.046Z",
               "EditorCaption": ""
@@ -72,8 +71,7 @@
               "RelativeToolTip": "CRMTool\\Services\\ExcelDataLoader.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T14:46:49.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T14:46:49.727Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "ToolTip": "C:\\Users\\rajpo\\source\\repos\\CRMTool\\CRMTool\\MyPluginControl.cs [Design]",
               "RelativeToolTip": "CRMTool\\MyPluginControl.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T12:57:36.401Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-29T12:57:36.401Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "CRMTool\\MyPluginControl.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAiwFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T04:01:27.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T04:01:27.258Z"
             }
           ]
         }

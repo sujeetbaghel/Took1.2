@@ -313,6 +313,58 @@ namespace CRMTool.Services
                 Console.WriteLine($"Error fetching or saving data: {ex.Message}");
             }
         }
+
+
+        //public async Task FetchEntityMetadataAsync(string prefix)
+        //{
+        //    string endpoint = $"entities?$select=entityid,logicalname,originallocalizedname&$filter=startswith(logicalname,'{prefix}')";
+        //    string filePath = @"C:\Users\rajpo\Documents\entity_metadata.json"; // This file stores the list of entities
+
+        //    try
+        //    {
+        //        var entityDataJson = await callCRMAPI(endpoint);
+
+        //        if (entityDataJson != null)
+        //        {
+        //            var entityMetadataResponse = JsonConvert.DeserializeObject<EntityMetadataResponse>(entityDataJson);
+
+        //            var formattedEntities = new List<Dictionary<string, string>>();
+
+        //            foreach (var entity in entityMetadataResponse.Value)
+        //            {
+        //                var entityDict = new Dictionary<string, string>
+        //        {
+        //            { "Entity Id", entity.EntityId },
+        //            { "Logical Name", entity.LogicalName },
+        //            { "Display Name", entity.OriginalLocalizedName }
+        //        };
+        //                formattedEntities.Add(entityDict);
+
+        //                // Save metadata for each entity using the EntityId
+        //                string entityFilePath = $@"C:\Users\rajpo\Documents\{entity.LogicalName}_metadata.xlsx"; // File path for each entity's metadata
+        //                Console.WriteLine($"Fetching and saving metadata for entity: {entity.LogicalName}");
+
+        //                // Call FetchAndSaveFullEntityMetadataAsync and pass the EntityId and file path
+        //                await FetchAndSaveFullEntityMetadataAsync(entity.EntityId, entityFilePath);
+        //            }
+
+        //            // Save the list of entities to the JSON file
+        //            string formattedJsonData = JsonConvert.SerializeObject(formattedEntities, Formatting.Indented);
+        //            File.WriteAllText(filePath, formattedJsonData);
+
+        //            Console.WriteLine("Entity data saved successfully to the file.");
+        //        }
+        //        else
+        //        {
+        //            Console.WriteLine("No data returned from the API.");
+        //        }
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        Console.WriteLine($"Error fetching or saving entity data: {ex.Message}");
+        //    }
+        //}
+
     }
 
     public class Metadata
