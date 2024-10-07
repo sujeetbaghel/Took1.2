@@ -1,3 +1,7 @@
+C:\Users\rajpo\source\repos\CRMTool\CRMTool\obj\Debug\CRMTool.csproj.AssemblyReference.cache
+C:\Users\rajpo\source\repos\CRMTool\CRMTool\obj\Debug\CRMTool.MyPluginControl.resources
+C:\Users\rajpo\source\repos\CRMTool\CRMTool\obj\Debug\CRMTool.csproj.GenerateResource.cache
+C:\Users\rajpo\source\repos\CRMTool\CRMTool\obj\Debug\CRMTool.csproj.CoreCompileInputs.cache
 C:\Users\rajpo\source\repos\CRMTool\CRMTool\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
 C:\Users\rajpo\source\repos\CRMTool\CRMTool\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
 C:\Users\rajpo\source\repos\CRMTool\CRMTool\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
@@ -73,10 +77,6 @@ C:\Users\rajpo\source\repos\CRMTool\CRMTool\bin\Debug\System.Text.Encodings.Web.
 C:\Users\rajpo\source\repos\CRMTool\CRMTool\bin\Debug\System.Text.Json.xml
 C:\Users\rajpo\source\repos\CRMTool\CRMTool\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\rajpo\source\repos\CRMTool\CRMTool\bin\Debug\System.ValueTuple.xml
-C:\Users\rajpo\source\repos\CRMTool\CRMTool\obj\Debug\CRMTool.csproj.AssemblyReference.cache
-C:\Users\rajpo\source\repos\CRMTool\CRMTool\obj\Debug\CRMTool.MyPluginControl.resources
-C:\Users\rajpo\source\repos\CRMTool\CRMTool\obj\Debug\CRMTool.csproj.GenerateResource.cache
-C:\Users\rajpo\source\repos\CRMTool\CRMTool\obj\Debug\CRMTool.csproj.CoreCompileInputs.cache
 C:\Users\rajpo\source\repos\CRMTool\CRMTool\obj\Debug\CRMTool.csproj.Up2Date
 C:\Users\rajpo\source\repos\CRMTool\CRMTool\obj\Debug\CRMTool.dll
 C:\Users\rajpo\source\repos\CRMTool\CRMTool\obj\Debug\CRMTool.pdb

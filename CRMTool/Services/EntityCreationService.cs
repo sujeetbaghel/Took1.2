@@ -43,6 +43,7 @@ namespace CRMTool.Services
                     IsVisibleInMobileClient = new BooleanManagedProperty(true),
                     OwnershipType = OwnershipTypes.UserOwned,
                     DisplayCollectionName = new Label(entityProperties["plural name"], 1033),
+                    
                     //IsActivity = entityProperties["type"] == "Activity"
 
                 };
