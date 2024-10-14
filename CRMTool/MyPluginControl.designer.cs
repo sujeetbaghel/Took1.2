@@ -30,6 +30,7 @@ namespace CRMTool
             this.tsbDownload = new System.Windows.Forms.ToolStripButton();
             this.btnChooseFile = new System.Windows.Forms.Button();
             this.btnSubmit = new System.Windows.Forms.Button();
+            this.btnFetchData = new System.Windows.Forms.Button();  // New button
             this.txtFilePath = new System.Windows.Forms.TextBox();
             this.txtEntityLog = new System.Windows.Forms.TextBox();
             this.txtStatus = new System.Windows.Forms.TextBox();
@@ -65,14 +66,31 @@ namespace CRMTool
             this.tssSeparator1.Name = "tssSeparator1";
             this.tssSeparator1.Size = new System.Drawing.Size(6, 44);
 
+            // Setup for the new "Fetch Data from Another Environment" button
+            this.btnFetchData.BackColor = System.Drawing.Color.FromArgb(34, 177, 76);
+            this.btnFetchData.FlatAppearance.BorderSize = 0;
+            this.btnFetchData.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnFetchData.ForeColor = System.Drawing.Color.White;
+            this.btnFetchData.Location = new System.Drawing.Point(440, 62);
+            this.btnFetchData.Margin = new System.Windows.Forms.Padding(4);
+            this.btnFetchData.Name = "btnSubmit";
+            this.btnFetchData.Size = new System.Drawing.Size(140, 30);
+            this.btnFetchData.TabIndex = 2;
+            this.btnFetchData.Text = "Fetch MetaData";
+            this.btnFetchData.UseVisualStyleBackColor = false;
+            this.btnFetchData.Font = new Font("Arial", 9);
+            this.btnFetchData.Click += new System.EventHandler(this.btnFetchData_Click);
+
+  
+
             // tsbDownload Button setup
             this.tsbDownload.Image = ((System.Drawing.Image)(resources.GetObject("tsbDownload.Image")));
             this.tsbDownload.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.tsbDownload.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
-            this.tsbDownload.Margin = new System.Windows.Forms.Padding(8, 0, 2, 0);
+            this.tsbDownload.Margin = new System.Windows.Forms.Padding(4);
             this.tsbDownload.Name = "tsbDownload";
             this.tsbDownload.Padding = new System.Windows.Forms.Padding(5);
-            this.tsbDownload.Size = new System.Drawing.Size(223, 44);
+            this.tsbDownload.Size = new System.Drawing.Size(500, 44);
             this.tsbDownload.Text = "Download Sample";
             this.tsbDownload.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.tsbDownload.Click += new System.EventHandler(this.tsbDownload_Click);
@@ -154,6 +172,8 @@ namespace CRMTool
             this.Controls.Add(this.txtFilePath);
             this.Controls.Add(this.txtStatus);
             this.Controls.Add(this.txtEntityLog);
+            // Add the new button to the form's controls
+            this.Controls.Add(this.btnFetchData);
             this.Margin = new System.Windows.Forms.Padding(5, 6, 5, 6);
             this.Name = "MyPluginControl";
             this.Size = new System.Drawing.Size(1025, 600);
@@ -176,6 +196,8 @@ namespace CRMTool
         private System.Windows.Forms.TextBox txtFilePath;
         private System.Windows.Forms.TextBox txtEntityLog;
         private System.Windows.Forms.TextBox txtStatus;
+        private System.Windows.Forms.Button btnFetchData;
+
     }
 
     // Custom Renderer class to handle hover effects

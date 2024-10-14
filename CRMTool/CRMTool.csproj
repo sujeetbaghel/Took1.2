@@ -218,6 +218,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FetchDataDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Services\EntityCreationService.cs" />
     <Compile Include="MyPlugin.cs" />
     <Compile Include="MyPluginControl.cs">

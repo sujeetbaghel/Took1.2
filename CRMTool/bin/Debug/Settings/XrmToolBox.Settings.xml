@@ -45,13 +45,13 @@
   <NumberOfDaysToShowNewRibbon>7</NumberOfDaysToShowNewRibbon>
   <ShowCategoriesExpanded>false</ShowCategoriesExpanded>
   <UseLegacyToolsList>false</UseLegacyToolsList>
-  <LastAdvertisementDisplay>2024-10-05T11:29:52.5836961+05:30</LastAdvertisementDisplay>
+  <LastAdvertisementDisplay>2024-10-14T20:48:05.6884583+05:30</LastAdvertisementDisplay>
   <LastConnection>CRM connection</LastConnection>
   <LastPlugin />
-  <LastUpdateCheck>2024-10-06T20:16:11.4545192+05:30</LastUpdateCheck>
+  <LastUpdateCheck>2024-10-14T21:45:57.2280126+05:30</LastUpdateCheck>
   <MostUsedList>
     <PluginUseCount>
-      <Count>217</Count>
+      <Count>243</Count>
       <Name>CRMTool.MyPlugin</Name>
     </PluginUseCount>
   </MostUsedList>
@@ -65,7 +65,7 @@
   <PluginsStoreShowUpdates xsi:nil="true" />
   <PluginsUpdateSkip>
     <PluginUpdateSkip>
-      <Date>2024-10-06T21:08:18.937823+05:30</Date>
+      <Date>2024-10-15T20:47:59.6111266+05:30</Date>
       <Name>McTools.Xrm.ConnectionControls</Name>
       <Version>1.2024.9.59</Version>
     </PluginUpdateSkip>
